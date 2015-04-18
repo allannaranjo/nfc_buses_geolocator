@@ -15,7 +15,7 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
-    <name>NFC Buses</name>
+    <name>NFCBuses</name>
     <description>
         NFC Buses - Geolocator
     </description>
