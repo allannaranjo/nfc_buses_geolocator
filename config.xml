@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.greencube.nfc_buses" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>nfc_buses</name>
+    <name>NFC Buses</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        NFC Buses - Geolocator
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+        Allan Naranjo
     </author>
     <content src="index.html" />
     <access origin="*" />
