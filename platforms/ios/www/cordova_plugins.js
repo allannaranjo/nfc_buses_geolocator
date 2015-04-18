@@ -53,7 +53,6 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "com.chariotsolutions.nfc.plugin": "0.6.1",
     "nl.x-services.plugins.insomnia": "4.0.1",
     "cordova-plugin-geolocation": "1.0.0-dev",
     "cordova-plugin-statusbar": "1.0.1-dev",
