@@ -58,9 +58,9 @@
         }
     },
     "installed_plugins": {
-        "com.chariotsolutions.nfc.plugin": {
-            "PACKAGE_NAME": "io.greencube.nfc_buses"
-        },
+        //"com.chariotsolutions.nfc.plugin": {
+        //    "PACKAGE_NAME": "io.greencube.nfc_buses"
+        //},
         "nl.x-services.plugins.insomnia": {
             "PACKAGE_NAME": "io.greencube.nfc_buses"
         },
