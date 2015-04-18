@@ -25,5 +25,11 @@
             "url": "https://github.com/apache/cordova-plugin-statusbar.git",
             "subdir": "."
         }
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
     }
 }

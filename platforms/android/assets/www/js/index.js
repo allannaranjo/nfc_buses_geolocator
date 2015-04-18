@@ -176,7 +176,9 @@ var app = {
 
 	},
 	interactWithStatusBar: function(){
-		StatusBar.hide();
+		if(device.platform.toLowerCase() === 'android'){
+			StatusBar.hide();
+		}
 	},
 	getTerminalInformation: function(){
 
@@ -209,7 +211,7 @@ var app = {
 
 	},
 	setEndPointDomain : function(){
-		app.endPointDomain = (app.mode === 'development' ? 'http://192.168.2.10:3000' : '')
+		app.endPointDomain = (app.mode === 'development' ? 'http://192.168.2.10:3000' : 'https://monge-buses.herokuapp.com')
 	},
 	start:function(){
 

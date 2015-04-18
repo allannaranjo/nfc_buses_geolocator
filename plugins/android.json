@@ -21,6 +21,10 @@
                         {
                             "xml": "<feature name=\"StatusBar\"><param name=\"android-package\" value=\"org.apache.cordova.statusbar.StatusBar\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -62,6 +66,9 @@
             "PACKAGE_NAME": "io.greencube.nfc_buses"
         },
         "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.greencube.nfc_buses"
+        },
+        "org.apache.cordova.device": {
             "PACKAGE_NAME": "io.greencube.nfc_buses"
         }
     },

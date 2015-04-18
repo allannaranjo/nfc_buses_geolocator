@@ -27,6 +27,10 @@
                         {
                             "xml": "<preference name=\"StatusBarStyle\" value=\"lightcontent\" />",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"ios-package\" value=\"CDVDevice\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -64,6 +68,9 @@
             "PACKAGE_NAME": "io.greencube.nfc_buses"
         },
         "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.greencube.nfc_buses"
+        },
+        "org.apache.cordova.device": {
             "PACKAGE_NAME": "io.greencube.nfc_buses"
         }
     },

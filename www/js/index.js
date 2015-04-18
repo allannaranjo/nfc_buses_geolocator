@@ -176,7 +176,9 @@ var app = {
 
 	},
 	interactWithStatusBar: function(){
-		StatusBar.hide();
+		if(device.platform.toLowerCase() === 'android'){
+			StatusBar.hide();
+		}
 	},
 	getTerminalInformation: function(){
 

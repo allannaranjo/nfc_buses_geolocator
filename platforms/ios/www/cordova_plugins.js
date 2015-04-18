@@ -41,6 +41,13 @@ module.exports = [
         "clobbers": [
             "window.StatusBar"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.device/www/device.js",
+        "id": "org.apache.cordova.device.device",
+        "clobbers": [
+            "device"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -49,7 +56,8 @@ module.exports.metadata =
     "com.chariotsolutions.nfc.plugin": "0.6.1",
     "nl.x-services.plugins.insomnia": "4.0.1",
     "cordova-plugin-geolocation": "1.0.0-dev",
-    "cordova-plugin-statusbar": "1.0.1-dev"
+    "cordova-plugin-statusbar": "1.0.1-dev",
+    "org.apache.cordova.device": "0.3.0"
 }
 // BOTTOM OF METADATA
 });

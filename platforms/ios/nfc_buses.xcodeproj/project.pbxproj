@@ -43,6 +43,7 @@
 		7117FB0609394D408F713394 /* CDVLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = DD60F33A21AE42B9AF82AE1A /* CDVLocation.m */; };
 		710AF222FC9849988A5B3BEB /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA4A72A782C747FDA77B8196 /* CoreLocation.framework */; };
 		56547F2E22164E3396954EA7 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FE319279D34F82B07AFD15 /* CDVStatusBar.m */; };
+		43904851FD564F05A0D4A93E /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = AF0BFAD9BAC14E2FABCCF3CA /* CDVDevice.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -115,6 +116,8 @@
 		CA4A72A782C747FDA77B8196 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreLocation.framework"; path = "System/Library/Frameworks/CoreLocation.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 		84FE319279D34F82B07AFD15 /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "cordova-plugin-statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		E45D4C72334B4301AE240BDB /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "cordova-plugin-statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		AF0BFAD9BAC14E2FABCCF3CA /* CDVDevice.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVDevice.m"; path = "org.apache.cordova.device/CDVDevice.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		CBE68478AC7944F08C152EB2 /* CDVDevice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVDevice.h"; path = "org.apache.cordova.device/CDVDevice.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -221,6 +224,8 @@
 				E4101D0FCD28437E82D1A392 /* CDVLocation.h */,
 				84FE319279D34F82B07AFD15 /* CDVStatusBar.m */,
 				E45D4C72334B4301AE240BDB /* CDVStatusBar.h */,
+				AF0BFAD9BAC14E2FABCCF3CA /* CDVDevice.m */,
+				CBE68478AC7944F08C152EB2 /* CDVDevice.h */,
 			);
 			name = Plugins;
 			path = "nfc_buses/Plugins";
@@ -408,6 +413,7 @@
 				DDF7BD09C55F46B1BFDFE458 /* Insomnia.m in Sources */,
 				7117FB0609394D408F713394 /* CDVLocation.m in Sources */,
 				56547F2E22164E3396954EA7 /* CDVStatusBar.m in Sources */,
+				43904851FD564F05A0D4A93E /* CDVDevice.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
