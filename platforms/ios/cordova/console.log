@@ -1,0 +1,130 @@
+2015-04-18 18:22:37.979 NFCBuses[17027:479392] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Data/Application/43CAE71B-DB63-4961-A61E-AC4B62ED5C66/Library/Cookies/Cookies.binarycookies
+2015-04-18 18:22:38.478 NFCBuses[17027:479392] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 18:22:38.480 NFCBuses[17027:479392] Multi-tasking -> Device: YES, App: YES
+2015-04-18 18:22:38.507 NFCBuses[17027:479392] Unlimited access to network resources
+2015-04-18 18:22:38.523 NFCBuses[17027:479392] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 18:22:39.145 NFCBuses[17027:479392] [CDVTimer][statusbar] 220.793009ms
+2015-04-18 18:22:39.145 NFCBuses[17027:479392] [CDVTimer][TotalPluginStartup] 221.032977ms
+2015-04-18 18:22:39.700 NFCBuses[17027:479392] Resetting plugins due to page load.
+2015-04-18 18:22:39.964 NFCBuses[17027:479392] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/CCBA0CF6-555F-4736-A99C-8EBBF03B22F1/NFCBuses.app/www/index.html
+2015-04-18 18:22:50.688 NFCBuses[17027:479392] THREAD WARNING: ['Geolocation'] took '21.466064' ms. Plugin should use a background thread.
+2015-04-18 18:22:55.957 NFCBuses[17027:479392] locationManager::didFailWithError (null)
+2015-04-18 18:24:06.186 NFCBuses[17027:479392] Resetting plugins due to page load.
+2015-04-18 18:24:06.817 NFCBuses[17027:479392] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/CCBA0CF6-555F-4736-A99C-8EBBF03B22F1/NFCBuses.app/www/index.html
+2015-04-18 18:24:07.061 NFCBuses[17027:479392] THREAD WARNING: ['StatusBar'] took '15.978271' ms. Plugin should use a background thread.
+2015-04-18 18:24:18.063 NFCBuses[17027:479392] THREAD WARNING: ['Geolocation'] took '45.184814' ms. Plugin should use a background thread.
+2015-04-18 18:24:18.103 NFCBuses[17027:479392] locationManager::didFailWithError (null)
+2015-04-18 18:24:32.792 NFCBuses[17027:479392] Resetting plugins due to page load.
+2015-04-18 18:24:32.900 NFCBuses[17027:479392] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/CCBA0CF6-555F-4736-A99C-8EBBF03B22F1/NFCBuses.app/www/index.html
+2015-04-18 18:24:50.537 NFCBuses[17027:479392] THREAD WARNING: ['Geolocation'] took '11.958252' ms. Plugin should use a background thread.
+2015-04-18 18:24:50.540 NFCBuses[17027:479392] locationManager::didFailWithError (null)
+2015-04-18 18:25:37.878 NFCBuses[17027:479392] Resetting plugins due to page load.
+2015-04-18 18:25:37.964 NFCBuses[17027:479392] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/CCBA0CF6-555F-4736-A99C-8EBBF03B22F1/NFCBuses.app/www/index.html
+2015-04-18 18:26:25.145 NFCBuses[17027:479392] locationManager::didFailWithError (null)
+2015-04-18 18:27:06.217 NFCBuses[17027:479392] Resetting plugins due to page load.
+2015-04-18 18:27:06.305 NFCBuses[17027:479392] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/CCBA0CF6-555F-4736-A99C-8EBBF03B22F1/NFCBuses.app/www/index.html
+2015-04-18 18:27:35.158 NFCBuses[17027:479392] THREAD WARNING: ['Geolocation'] took '12.613281' ms. Plugin should use a background thread.
+2015-04-18 18:27:35.162 NFCBuses[17027:479392] locationManager::didFailWithError (null)
+2015-04-18 18:30:07.101 NFCBuses[17027:479392] Resetting plugins due to page load.
+2015-04-18 18:30:07.237 NFCBuses[17027:479392] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/CCBA0CF6-555F-4736-A99C-8EBBF03B22F1/NFCBuses.app/www/index.html
+2015-04-18 18:30:24.467 NFCBuses[17027:479392] locationManager::didFailWithError (null)
+2015-04-18 18:31:07.221 NFCBuses[17210:484292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Data/Application/17F29BFD-3806-4579-8A51-66E63C91274D/Library/Cookies/Cookies.binarycookies
+2015-04-18 18:31:07.541 NFCBuses[17210:484292] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 18:31:07.542 NFCBuses[17210:484292] Multi-tasking -> Device: YES, App: YES
+2015-04-18 18:31:07.566 NFCBuses[17210:484292] Unlimited access to network resources
+2015-04-18 18:31:07.584 NFCBuses[17210:484292] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 18:31:07.871 NFCBuses[17210:484292] [CDVTimer][statusbar] 98.655999ms
+2015-04-18 18:31:07.871 NFCBuses[17210:484292] [CDVTimer][TotalPluginStartup] 98.945022ms
+2015-04-18 18:31:08.140 NFCBuses[17210:484292] Resetting plugins due to page load.
+2015-04-18 18:31:08.339 NFCBuses[17210:484292] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/8BBADB19-ECB3-4BF0-8C81-675EA2B4F61B/NFCBuses.app/www/index.html
+2015-04-18 18:31:18.778 NFCBuses[17210:484292] THREAD WARNING: ['Geolocation'] took '27.128174' ms. Plugin should use a background thread.
+2015-04-18 18:31:18.784 NFCBuses[17210:484292] locationManager::didFailWithError (null)
+2015-04-18 18:31:22.114 NFCBuses[17210:484292] Resetting plugins due to page load.
+2015-04-18 18:31:22.198 NFCBuses[17210:484292] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/8BBADB19-ECB3-4BF0-8C81-675EA2B4F61B/NFCBuses.app/www/index.html
+2015-04-18 18:31:32.582 NFCBuses[17210:484292] locationManager::didFailWithError (null)
+2015-04-18 18:31:55.979 NFCBuses[17210:484292] Resetting plugins due to page load.
+2015-04-18 18:31:56.065 NFCBuses[17210:484292] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/8BBADB19-ECB3-4BF0-8C81-675EA2B4F61B/NFCBuses.app/www/index.html
+2015-04-18 18:32:11.736 NFCBuses[17210:484292] THREAD WARNING: ['Geolocation'] took '12.115723' ms. Plugin should use a background thread.
+2015-04-18 18:32:11.737 NFCBuses[17210:484292] locationManager::didFailWithError (null)
+2015-04-18 18:33:48.489 NFCBuses[17351:486225] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Data/Application/26AA990A-381F-4533-9355-885231148A23/Library/Cookies/Cookies.binarycookies
+2015-04-18 18:33:48.990 NFCBuses[17351:486225] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 18:33:48.990 NFCBuses[17351:486225] Multi-tasking -> Device: YES, App: YES
+2015-04-18 18:33:49.019 NFCBuses[17351:486225] Unlimited access to network resources
+2015-04-18 18:33:49.037 NFCBuses[17351:486225] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 18:33:49.573 NFCBuses[17351:486225] [CDVTimer][statusbar] 181.047022ms
+2015-04-18 18:33:49.573 NFCBuses[17351:486225] [CDVTimer][TotalPluginStartup] 181.279004ms
+2015-04-18 18:33:49.759 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:33:50.042 NFCBuses[17351:486225] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/28E35BB5-D6A2-443A-8DFA-C619C0C3321B/NFCBuses.app/www/index.html
+2015-04-18 18:34:00.523 NFCBuses[17351:486225] THREAD WARNING: ['Geolocation'] took '37.079834' ms. Plugin should use a background thread.
+2015-04-18 18:34:00.569 NFCBuses[17351:486225] locationManager::didFailWithError (null)
+2015-04-18 18:34:19.112 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:34:19.231 NFCBuses[17351:486225] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/28E35BB5-D6A2-443A-8DFA-C619C0C3321B/NFCBuses.app/www/index.html
+2015-04-18 18:34:29.695 NFCBuses[17351:486225] THREAD WARNING: ['Geolocation'] took '11.291016' ms. Plugin should use a background thread.
+2015-04-18 18:34:29.698 NFCBuses[17351:486225] locationManager::didFailWithError (null)
+2015-04-18 18:36:46.838 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:37:52.687 NFCBuses[17351:486225] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-18 18:37:52.691 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:37:58.456 NFCBuses[17351:486225] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-18 18:37:58.457 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:37:59.769 NFCBuses[17351:486225] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-18 18:37:59.769 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:38:03.903 NFCBuses[17351:486225] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-18 18:38:03.904 NFCBuses[17351:486225] Resetting plugins due to page load.
+2015-04-18 18:38:39.170 NFCBuses[17524:489174] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Data/Application/C1C34F01-806F-421D-A620-5E746F7ACFE0/Library/Cookies/Cookies.binarycookies
+2015-04-18 18:38:39.560 NFCBuses[17524:489174] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-18 18:38:39.561 NFCBuses[17524:489174] Multi-tasking -> Device: YES, App: YES
+2015-04-18 18:38:39.592 NFCBuses[17524:489174] Unlimited access to network resources
+2015-04-18 18:38:39.612 NFCBuses[17524:489174] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-18 18:38:40.110 NFCBuses[17524:489174] [CDVTimer][statusbar] 182.714999ms
+2015-04-18 18:38:40.111 NFCBuses[17524:489174] [CDVTimer][TotalPluginStartup] 183.013022ms
+2015-04-18 18:38:40.319 NFCBuses[17524:489174] Resetting plugins due to page load.
+2015-04-18 18:38:40.630 NFCBuses[17524:489174] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/A081735E-EE01-4C2F-BC29-0785D9F66854/NFCBuses.app/www/index.html
+2015-04-18 18:38:51.228 NFCBuses[17524:489174] THREAD WARNING: ['Geolocation'] took '19.444092' ms. Plugin should use a background thread.
+2015-04-18 18:38:51.253 NFCBuses[17524:489174] locationManager::didFailWithError (null)
+2015-04-18 18:39:30.426 NFCBuses[17524:489174] Resetting plugins due to page load.
+2015-04-18 18:39:30.587 NFCBuses[17524:489174] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/A081735E-EE01-4C2F-BC29-0785D9F66854/NFCBuses.app/www/index.html
+2015-04-18 18:39:40.944 NFCBuses[17524:489174] THREAD WARNING: ['Geolocation'] took '12.033936' ms. Plugin should use a background thread.
+2015-04-18 18:39:40.946 NFCBuses[17524:489174] locationManager::didFailWithError (null)
+2015-04-18 18:40:15.136 NFCBuses[17524:489174] Resetting plugins due to page load.
+2015-04-18 18:40:15.249 NFCBuses[17524:489174] Finished load of: file:///Users/allannaranjo/Library/Developer/CoreSimulator/Devices/CF9A3EB7-A5DF-48B6-85B6-7C402BCB77AF/data/Containers/Bundle/Application/A081735E-EE01-4C2F-BC29-0785D9F66854/NFCBuses.app/www/index.html
+2015-04-18 18:40:25.571 NFCBuses[17524:489174] THREAD WARNING: ['Geolocation'] took '11.919922' ms. Plugin should use a background thread.
+2015-04-18 18:40:25.574 NFCBuses[17524:489174] locationManager::didFailWithError (null)
+2015-04-18 18:40:25.589 NFCBuses[17524:489402] bool _WebTryThreadLock(bool), 0x7a00c000: Multiple locks on web thread not allowed! Please file a bug. Crashing now...
+1   0x5627638 WebRunLoopLock(__CFRunLoopObserver*, unsigned long, void*)
+2   0x13e18e __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__
+3   0x13e0d0 __CFRunLoopDoObservers
+4   0x1339c8 __CFRunLoopRun
+5   0x13337b CFRunLoopRunSpecific
+6   0x1331ab CFRunLoopRunInMode
+7   0x5627600 RunWebThread(void*)
+8   0x2e1e5fb _pthread_body
+9   0x2e1e485 _pthread_struct_init
+10  0x2e23cf2 thread_start
